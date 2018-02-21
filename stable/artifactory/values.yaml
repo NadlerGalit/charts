@@ -70,7 +70,7 @@ artifactory:
 
 # Nginx
 nginx:
-  enabled: true
+  enabled: false
   name: nginx
   replicaCount: 1
   image:
